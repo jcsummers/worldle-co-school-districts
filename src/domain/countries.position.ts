@@ -914,7 +914,7 @@ export const countries: Country[] = [
     name: "Springfield RE-4",
 },  
 {
-    code: "SV!",
+    code: "SV1",
     latitude: 40.16,
     longitude: -105.11,
     name: "St Vrain Valley RE1J",
