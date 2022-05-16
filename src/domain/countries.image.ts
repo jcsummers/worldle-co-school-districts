@@ -1,5 +1,5 @@
 export const countryCodesWithImage = [
-  "A20",
+"A20",
 "A12",
 "A14",
 "28J",
