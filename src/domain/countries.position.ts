@@ -248,7 +248,7 @@ export const countries: Country[] = [
     name: "Cripple Creek-Victor RE-1",
 },  
 {
-    code: "CCRE1",
+    code: "CCRE1J",
     latitude: 38.23,
     longitude: -103.76,
     name: "Crowley County RE-1-J",
@@ -500,7 +500,7 @@ export const countries: Country[] = [
     name: "Holly RE-3",
 },  
 {
-    code: "HRE1",
+    code: "HRE1J",
     latitude: 40.58,
     longitude: -102.3,
     name: "Holyoke Re-1J",
@@ -692,7 +692,7 @@ export const countries: Country[] = [
     name: "Montezuma-Cortez RE-1",
 },  
 {
-    code: "MC1",
+    code: "MC1J",
     latitude: 38.47,
     longitude: -107.88,
     name: "Montrose County RE-1J",
