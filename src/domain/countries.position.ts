@@ -20,7 +20,7 @@ export const countries: Country[] = [
     name: "Adams County 14",
 },
 {
-    code: "28J",
+    code: "AA28",
     latitude: 39.72,
     longitude: -104.81,
     name: "Adams-Arapahoe 28J",
